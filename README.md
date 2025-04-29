@@ -2,6 +2,5 @@ This was my submitted code for the final assignment of MIE1210H: Computational F
 
 !!! IF YOU ARE CURRENTLY TAKING THAT COURSE DO NOT COPY AND PASTE AS YOUR SUBMISSION, READ THROUGH IT AND DEBUG YOUR CODE INSTEAD !!!  
 
- 
 
 One of the things that took me the longest to debug was the implementation of the relaxation factor, read exisitng literature carefully.
